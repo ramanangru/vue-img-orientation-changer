@@ -113,7 +113,7 @@ const toOrientationOne = (el, orientation, debug) => {
       _toTransform = [
         {
           key: 'transform',
-          value: `rotateZ(90deg) translateX(${gapFill}px)`
+          value: `rotateZ(90deg)`
         },
         {
           key: 'transform-origin',
